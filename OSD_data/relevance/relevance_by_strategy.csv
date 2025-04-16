@@ -1,0 +1,64 @@
+"","label_solution","Rel_always_avg","Rel_always_sd","Rel_never_avg","Rel_never_sd","count_relevant_solutions","count_irrelevant_solutions","count_solutions","count_always_75","count_always_50","count_always_25"
+"1","adapt intensity BCT",0.54,0.2,0.16,0.2,22,4,26,0.12,0.69,0.92
+"2","adapt starting time BCT",0.42,0.15,0.22,0.15,25,7,32,0.03,0.25,0.84
+"3","add company BCT",0.27,0.18,0.36,0.18,18,8,26,0,0.04,0.42
+"4","advice to pace activity BCT",0.67,0.15,0.12,0.15,23,3,26,0.38,0.77,0.96
+"5","advice to seek demonstration of the behaviour online",0.37,0.2,0.4,0.2,4,9,13,0,0.23,0.69
+"6","advice to seek instructions for the behaviour online",0.35,0.23,0.46,0.23,4,10,14,0,0.29,0.5
+"7","advice to take breaks BCT",0.69,0.17,0.18,0.17,25,5,30,0.53,0.83,0.93
+"8","advise goal integration",0.25,0.22,0.53,0.22,56,5,61,0,0.1,0.46
+"9","advise to keep behaviour goal in mind",0.75,0.13,0.17,0.13,33,1,34,0.5,0.91,1
+"10","advise to seek emotional support BCT",0.39,0.17,0.4,0.17,34,2,36,0,0.19,0.78
+"11","advise to seek emotional support from a pet BCT",0.17,0.15,0.68,0.15,32,1,33,0,0.03,0.3
+"12","advise to seek informational support BCT",0.32,0.23,0.45,0.23,3,7,10,0,0.2,0.5
+"13","advise to seek instrumental support BCT",0.34,0.14,0.35,0.14,16,10,26,0,0.19,0.65
+"14","advise to use motivational content",0.35,0.2,0.5,0.2,26,6,32,0,0.28,0.56
+"15","affirm commitment BCT",0.64,0.13,0.23,0.13,33,4,37,0.24,0.78,1
+"16","affirm commitment despite barriers BCT",0.59,0.14,0.24,0.14,33,0,33,0.18,0.7,0.97
+"17","appropriate nutrition BCT",0.72,0.16,0.21,0.16,5,10,15,0.47,0.93,1
+"18","appropriate sleep BCT",0.65,0.16,0.26,0.16,8,10,18,0.28,0.78,1
+"19","confirm facility availability BCT",0.45,0.29,0.41,0.29,1,7,8,0.25,0.25,0.75
+"20","confirm others' commitment BCT",0.22,0.19,0.32,0.19,1,11,12,0,0,0.33
+"21","confirm suitable weather BCT",0.48,0.19,0.22,0.19,8,6,14,0.07,0.5,0.79
+"22","conserve mental resources BCT",0.5,0.17,0.36,0.17,23,4,27,0.07,0.56,0.85
+"23","divide activity BCT",0.48,0.14,0.2,0.14,33,3,36,0.03,0.47,0.92
+"24","encourage caffeine consumption BCT",0.21,0.23,0.64,0.23,2,10,12,0,0.08,0.33
+"25","encourage short term pharmacological support BCT",0.34,0.32,0.5,0.32,11,13,24,0.04,0.33,0.5
+"26","increase salience of consequences BCT",0.73,0.1,0.18,0.1,30,2,32,0.41,0.94,1
+"27","increase salience of emotional consequences BCT",0.75,0.1,0.18,0.1,18,5,23,0.48,0.96,1
+"28","increase salience of health consequences BCT",0.73,0.12,0.17,0.12,30,3,33,0.45,0.97,1
+"29","increase salience of social consequences BCT",0.56,0.13,0.28,0.13,18,5,23,0.04,0.57,1
+"30","induce anticipated regret BCT",0.63,0.14,0.24,0.14,23,6,29,0.17,0.76,0.97
+"31","inform about emotional consequences BCT",0.6,0.16,0.3,0.16,12,6,18,0.22,0.78,0.94
+"32","inform about health benefits BCT",0.62,0.1,0.27,0.1,26,2,28,0.11,0.89,1
+"33","inform about health consequences BCT",0.66,0.12,0.24,0.12,26,3,29,0.24,0.79,1
+"34","inform about health risks BCT",0.54,0.09,0.33,0.09,26,1,27,0.04,0.63,1
+"35","introduce visible material BCT",0.32,0.18,0.41,0.18,5,15,20,0.05,0.05,0.65
+"36","introduce visible reminder BCT",0.39,0.22,0.48,0.22,5,8,13,0,0.23,0.69
+"37","make a goal public BCT",0.13,0.13,0.76,0.13,33,1,34,0,0,0.09
+"38","make self visible BCT",0.2,0.17,0.64,0.17,1,14,15,0.07,0.07,0.2
+"39","monitor behaviour passively BCT",0.39,0.16,0.47,0.16,6,11,17,0,0.29,0.88
+"40","monitoring BCT",0.53,0.15,0.36,0.15,6,7,13,0,0.54,0.92
+"41","move indoors",0.32,0.16,0.26,0.16,11,8,19,0,0.32,0.58
+"42","non-pharmaceutical pain management BCT",0.5,0.2,0.31,0.2,12,4,16,0.06,0.56,0.88
+"43","persuade about personal capability BCT",0.67,0.15,0.23,0.15,29,5,34,0.38,0.82,1
+"44","plan departure BCT",0.62,0.18,0.24,0.18,9,4,13,0.31,0.54,1
+"45","plan inclusion of audio media BCT",0.38,0.19,0.43,0.19,30,4,34,0.03,0.24,0.74
+"46","plan inclusion of audiovisual media BCT",0.14,0.15,0.64,0.15,30,2,32,0,0,0.12
+"47","plan inclusion of taking pictures BCT",0.07,0.1,0.82,0.1,29,4,33,0,0,0
+"48","plan transport BCT",0.47,0.2,0.37,0.2,2,11,13,0.15,0.31,0.85
+"49","prepare required material BCT",0.37,0.15,0.37,0.15,33,2,35,0.03,0.14,0.74
+"50","prepare suitable clothing BCT",0.53,0.18,0.32,0.18,32,0,32,0.12,0.47,0.97
+"51","prompt self-talk BCT",0.6,0.17,0.28,0.17,28,5,33,0.18,0.67,1
+"52","prompt thinking related to successful performance BCT",0.64,0.14,0.25,0.14,29,0,29,0.28,0.76,1
+"53","provide positive consequence for behaviour BCT",0.61,0.11,0.25,0.11,31,1,32,0.16,0.78,0.97
+"54","reduce company BCT",0.3,0.17,0.37,0.17,11,4,15,0,0.2,0.4
+"55","reduce distraction BCT",0.51,0.21,0.4,0.21,2,10,12,0.17,0.42,0.92
+"56","review plan (other activity) BCT",0.44,0.15,0.19,0.15,47,1,48,0,0.31,0.9
+"57","review plan (other location) BCT",0.39,0.18,0.23,0.18,16,2,18,0,0.28,0.72
+"58","seek reminder from others BCT",0.24,0.19,0.55,0.19,6,11,17,0,0.06,0.41
+"59","set alarm BCT",0.35,0.27,0.46,0.27,4,9,13,0.08,0.31,0.54
+"60","shorten activity BCT",0.48,0.15,0.17,0.15,33,5,38,0.03,0.53,0.89
+"61","start day early BCT",0.49,0.21,0.33,0.21,13,4,17,0.12,0.47,0.82
+"62","take a path that is not dark if possible",0.34,0.14,0.31,0.14,13,7,20,0,0.05,0.75
+"63","warm up BCT",0.62,0.2,0.26,0.2,11,11,22,0.32,0.73,1

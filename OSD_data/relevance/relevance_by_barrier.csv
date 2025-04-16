@@ -1,0 +1,50 @@
+"","label_barrier","Rel_always_avg","Rel_always_sd","Rel_never_avg","Rel_never_sd","count_relevant_solutions","count_irrelevant_solutions","count_solutions","count_always_75","count_always_50","count_always_25"
+"1","access to desired activity companion",0.47,0.2,0.38,0.2,30,10,40,0.07,0.48,0.85
+"2","access to facilities",0.42,0.18,0.31,0.18,7,3,10,0.1,0.3,0.7
+"3","access to instructor",0.4,0.3,0.41,0.3,4,6,10,0,0.3,0.7
+"4","access to materials",0.36,0.27,0.42,0.27,4,6,10,0,0.3,0.7
+"5","access to required activity companion",0.17,0.25,0.57,0.25,3,7,10,0,0.1,0.1
+"6","access to space",0.33,0.22,0.4,0.22,6,4,10,0,0.2,0.5
+"7","access to transportation",0.48,0.18,0.26,0.18,9,1,10,0.1,0.4,1
+"8","activity companion cancellation",0.43,0.21,0.39,0.21,12,13,25,0.04,0.32,0.8
+"9","activity-induced pain",0.49,0.28,0.35,0.28,33,7,40,0.2,0.52,0.75
+"10","appropriate ground conditions",0.32,0.27,0.41,0.27,26,4,30,0,0.2,0.6
+"11","back pain",0.41,0.25,0.4,0.25,33,7,40,0.1,0.35,0.62
+"12","behavioural motivation",0.55,0.2,0.23,0.2,41,9,50,0.22,0.56,0.88
+"13","belief about social support",0.53,0.16,0.33,0.16,13,7,20,0.3,0.45,0.9
+"14","distance to location",0.47,0.12,0.19,0.12,9,1,10,0.2,0.3,0.9
+"15","evaluative belief about pain induced by exercise",0.53,0.24,0.32,0.24,28,12,40,0.22,0.55,0.78
+"16","evaluative belief about sweating due to physical activity",0.42,0.26,0.43,0.26,28,12,40,0.12,0.4,0.68
+"17","external attentional self-regulation capability",0.51,0.19,0.32,0.19,30,10,40,0.22,0.5,0.8
+"18","feeling bad",0.56,0.19,0.26,0.19,36,4,40,0.25,0.65,0.9
+"19","feeling ill",0.46,0.23,0.34,0.23,37,12,49,0.1,0.47,0.78
+"20","feeling nervous",0.53,0.2,0.32,0.2,32,8,40,0.25,0.52,0.88
+"21","feeling tired",0.54,0.2,0.29,0.2,43,7,50,0.16,0.58,0.84
+"22","feeling weak",0.52,0.22,0.3,0.22,39,11,50,0.24,0.54,0.82
+"23","goal conflict concerning energy",0.55,0.23,0.26,0.23,35,5,40,0.28,0.58,0.82
+"24","goal conflict concerning time",0.48,0.23,0.32,0.23,20,10,30,0.1,0.43,0.83
+"25","goal conflict preventing relocation",0.48,0.26,0.32,0.26,6,4,10,0,0.6,0.8
+"26","headache",0.47,0.24,0.35,0.24,34,6,40,0.1,0.52,0.78
+"27","hunger",0.39,0.21,0.45,0.21,25,5,30,0.03,0.4,0.63
+"28","injure anxiety",0.46,0.23,0.35,0.23,30,10,40,0.15,0.48,0.78
+"29","injury feeling",0.44,0.23,0.36,0.23,33,7,40,0.15,0.42,0.68
+"30","internal attentional self-regulation capability",0.48,0.19,0.34,0.19,25,5,30,0.2,0.4,0.8
+"31","knowledge regarding a behaviour",0.45,0.2,0.28,0.2,6,4,10,0,0.4,0.9
+"32","menstrual pain",0.41,0.22,0.43,0.22,33,7,40,0.05,0.42,0.7
+"33","muscle soreness",0.49,0.23,0.32,0.23,33,7,40,0.12,0.52,0.7
+"34","natural light opportunity",0.4,0.24,0.41,0.24,28,12,40,0.07,0.28,0.7
+"35","pain feeling",0.48,0.25,0.32,0.25,33,7,40,0.1,0.55,0.75
+"36","physical skill",0.56,0.18,0.27,0.18,13,7,20,0.1,0.75,0.9
+"37","pollen-free environment",0.27,0.25,0.47,0.25,19,11,30,0,0.1,0.47
+"38","procrastination tendency",0.56,0.17,0.25,0.17,39,11,50,0.26,0.56,0.88
+"39","remember material",0.38,0.25,0.46,0.25,15,5,20,0.1,0.3,0.65
+"40","self-efficacy belief for a behaviour",0.49,0.16,0.29,0.16,22,8,30,0.1,0.47,0.77
+"41","shame",0.51,0.2,0.29,0.2,31,9,40,0.22,0.55,0.78
+"42","stomach ache",0.47,0.2,0.33,0.2,34,6,40,0.07,0.55,0.75
+"43","sufficient lack of precipitation",0.43,0.21,0.3,0.21,36,4,40,0.07,0.35,0.8
+"44","sufficient lack of wind",0.45,0.26,0.36,0.26,38,12,50,0.02,0.44,0.78
+"45","sufficiently cool temperature",0.43,0.26,0.38,0.26,39,11,50,0.04,0.42,0.76
+"46","sufficiently warm temperate",0.41,0.22,0.36,0.22,36,4,40,0.05,0.4,0.75
+"47","time management capability",0.48,0.24,0.36,0.24,19,11,30,0.13,0.43,0.8
+"48","unexpected goal conflict for time",0.46,0.26,0.32,0.26,16,4,20,0.05,0.45,0.8
+"49","usable material",0.34,0.3,0.5,0.3,4,6,10,0,0.3,0.5

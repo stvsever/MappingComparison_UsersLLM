@@ -1,0 +1,66 @@
+"","Solution","For high-intensity activities (e.g. running)","For low-intensity activities (e.g. walking)","If activity was planned alone","If activity was planned outside","If activity was planned with other people","If material is required","Other Profile","No Condition","Other Activity","Other Context","Implementation"
+"1","Adjust the intensity of the activity according to your needs",124,54,51,68,25,41,3,0,0,0,0
+"2","Ask other people if they want to join",36,35,108,78,134,32,5,4,1,2,0
+"3","Ask someone to remind you of your activity",13,14,45,34,66,32,0,0,0,0,0
+"4","Call someone while doing the activity",15,36,93,161,33,29,3,2,3,1,0
+"5","Change the intensity of the activity",158,56,64,70,32,23,4,1,0,0,0
+"6","Change what I am going to do",159,79,191,233,120,108,5,6,5,6,0
+"7","Check the weather in advance",22,19,15,194,14,8,0,0,0,1,0
+"8","Combine being active with something else I want to do",41,54,118,189,62,26,1,2,5,0,1
+"9","Confirm that the gym / court / ... will be available",8,7,13,51,10,19,0,0,0,0,0
+"10","Confirm with the other(s) that they will join",12,9,8,38,122,20,1,0,0,2,0
+"11","Consume caffeine (e.g. coffee, energy drinks, caffeine pills) to help with this",21,8,8,7,9,26,0,3,0,0,3
+"12","Deal with my symptoms without medication, e.g. by massaging affected areas or using heat/cold",38,25,27,16,22,35,14,1,0,0,2
+"13","Divide the activity into shorter parts",153,63,145,169,58,27,4,2,6,4,1
+"14","Do it at a different time today",58,49,138,207,62,20,3,4,0,19,1
+"15","Do it indoors instead",14,19,52,230,18,39,1,2,3,7,0
+"16","Do it somewhere else",30,28,58,184,34,16,3,2,4,12,1
+"17","Do the activity alone",14,13,62,32,71,10,2,1,3,1,0
+"18","Find social support in a pet",21,43,74,164,16,8,6,1,0,0,1
+"19","Find someone to demonstrate the behaviour for you online, for example in a video",19,12,35,35,23,26,0,1,2,1,0
+"20","Find someone to help me with those practical barriers",32,23,76,85,112,85,2,2,1,9,2
+"21","Find someone to provide you with instructions for the behaviour online, for example in a video or text",15,14,30,53,31,64,0,0,1,1,0
+"22","Find someone to provide you with the needed information, either online or offline",19,14,28,81,21,42,0,0,0,0,0
+"23","Find someone who supports me in this, either online or offline, e.g. by encouraging me.",40,35,106,156,113,20,7,1,0,7,0
+"24","Keep my goal in mind",62,53,90,172,42,46,4,1,0,1,0
+"25","Keep track of my activity",21,22,35,78,22,16,2,0,0,0,0
+"26","Keep track of my activity using a device, such as a fitness tracker",27,20,22,88,7,11,1,1,0,0,2
+"27","Learn about health benefits of doing the behaviour",53,58,57,106,33,18,6,1,0,0,0
+"28","Learn about the consequences this will have on my health",53,40,58,147,34,28,6,1,0,2,1
+"29","Learn about the consequences this will have on my mental health",28,21,44,98,21,12,3,1,0,0,1
+"30","Learn about the risks of not doing the behaviour",37,29,40,111,32,18,7,6,0,0,1
+"31","Look up inspirational content, such as videos or posts, online",40,29,65,123,26,54,11,3,0,2,2
+"32","Make a commitment to myself to do this no matter what comes in my way!",68,58,96,193,77,50,8,0,2,3,1
+"33","Make a commitment to myself to really do this!",55,51,109,174,70,42,6,2,0,6,2
+"34","Make my goal public",26,29,59,170,69,37,4,6,0,2,0
+"35","Make sure to be visible",11,11,19,108,33,43,0,1,0,2,0
+"36","Make sure to eat well before and after, and time your meals appropriately",33,27,20,32,15,12,2,0,0,0,0
+"37","Make sure to get enough sleep before the activity",43,18,27,57,18,35,1,1,0,0,1
+"38","Make sure to warm up sufficiently before the activity",72,36,50,77,57,20,1,1,2,0,0
+"39","Plan how to get there",8,6,30,77,29,9,0,0,2,1,0
+"40","Plan when I have to leave to have enough time",18,16,26,53,27,27,0,0,0,2,0
+"41","Provide a positive consequence or reward for doing the activity",59,39,73,165,55,21,3,2,3,1,0
+"42","Put a visible reminder, like a postit, somewhere where I will see it",15,13,29,72,23,35,1,3,0,0,0
+"43","Put on music or a podcast",60,58,130,183,36,24,2,0,3,2,1
+"44","Put the material I will need within my sight as a visible reminder",12,9,22,72,14,129,0,1,0,1,0
+"45","Reduce the mental load by making most decisions (e.g. what to do exactly, what to wear, when to do it) ahead of time, or outsourcing some decisions",33,27,50,133,41,57,0,0,1,0,0
+"46","Remind myself of the positive effects doing this will have on my mental health",34,33,55,118,35,14,4,1,1,4,0
+"47","Remind myself of the positive effects doing this will have on my physical health",54,55,76,124,46,24,7,0,0,1,2
+"48","Remind myself of the positive effects this will have on me",64,55,76,121,38,29,5,2,3,2,0
+"49","Remind myself of the positive social effects doing this will have",31,31,41,130,81,13,3,2,0,1,0
+"50","Set an alarm",17,16,36,51,28,26,1,1,0,2,0
+"51","Set my material or equipment ready to use",24,20,40,168,41,258,0,0,0,3,0
+"52","Set suitable clothing ready to use",40,35,40,183,32,101,0,3,2,3,2
+"53","Shorten the duration of the activity",171,79,165,165,67,33,4,8,5,7,1
+"54","Start my day early enough to have time for the activity",35,25,39,141,26,27,0,0,0,6,0
+"55","Take a different path",43,33,58,170,54,9,2,1,0,14,0
+"56","Take away distractions",15,9,26,67,13,7,0,3,0,0,0
+"57","Take breaks whenever needed",89,43,67,126,43,47,2,1,1,0,0
+"58","Take medication to help with the symptoms",58,31,38,103,35,27,9,3,2,2,3
+"59","Take pictures during the activity",14,25,34,187,42,38,2,2,4,2,2
+"60","Tell myself that you can do this, and think about why",45,39,78,157,37,18,4,2,3,1,3
+"61","Think about how I will feel tonight if I haven't managed to do this",38,38,60,124,45,33,5,1,1,6,3
+"62","Think about situations where I achieved similar goals",37,29,68,139,32,22,4,2,1,1,1
+"63","Use positive selftalk",52,36,99,147,34,39,3,3,1,2,2
+"64","Watch something during the activity",18,39,88,148,36,20,2,2,2,7,7
+"65",NA,0,0,0,0,0,0,0,0,0,0,0
