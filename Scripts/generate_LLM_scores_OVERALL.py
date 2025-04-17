@@ -423,18 +423,3 @@ if __name__ == "__main__":
     grouped_metrics(corr_df, combinations_df, llm_scores, base_image_dir)
 
     logging.info("Done – all correlation & confusion matrices saved.")
-
-# Classification Results:
-#2025-04-16 22:54:04,462 [INFO] Global classification accuracy = 73.00%
-#2025-04-16 22:54:05,171 [INFO] barrier_group 'Behavioral opportunity' accuracy = 66.00%
-#2025-04-16 22:54:05,902 [INFO] barrier_group 'Bodily and affective feelings' accuracy = 82.50%
-#2025-04-16 22:54:06,586 [INFO] barrier_group 'Capability' accuracy = 70.00%
-#2025-04-16 22:54:07,279 [INFO] coping_group 'review behavioral plan' accuracy = 76.47%
-#2025-04-16 22:54:07,970 [INFO] coping_group 'social support, information and awareness' accuracy = 63.64%
-#2025-04-16 22:54:08,663 [INFO] coping_group 'prepare for activity' accuracy = 71.43%
-#2025-04-16 22:54:09,357 [INFO] coping_group 'goal directed BCT' accuracy = 78.26%
-# Note: False Negative rate momenteel '12.5964%' ; MAAR kijk naar originele matrix --> scores (user_ratings) zijn vaak helemaal niet logisch?! (zie bv 43, 50, 51, 52, 53, 55, 56, 57, 62, 64, etc.)
-
-# Correlation Results:
-# Moderate correlation between user ratings and LLM scores ; r=0.46
-e
