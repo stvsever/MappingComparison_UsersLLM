@@ -47,7 +47,7 @@ def compare_files(csv_file_path, excel_file_path, verbose_mode=False):
 
 if __name__ == "__main__":
     # Define file paths
-    csv_file_path = "//OSD_data/relevance/relevance_by_combination.csv"
+    csv_file_path = "//OSF_data/relevance/relevance_by_combination.csv"
     excel_file_path = "//Question_Matrix/MatrixInputR2.xlsx"
 
     # Compare the files and print the results in verbose mode

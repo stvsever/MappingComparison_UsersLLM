@@ -69,5 +69,5 @@ def compute_thresholds_and_deciles(file_path, n_boot=1000):
         print(prop)
 
 if __name__ == "__main__":
-    file_path = "//OSD_data/relevance/relevance_by_combination.csv"
+    file_path = "//OSF_data/relevance/relevance_by_combination.csv"
     compute_thresholds_and_deciles(file_path)

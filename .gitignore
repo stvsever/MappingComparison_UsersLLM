@@ -1,0 +1,36 @@
+##########
+# IDEs
+##########
+.idea/
+
+##########
+# macOS Finder
+##########
+.DS_Store
+
+##########
+# Environment files & secrets
+##########
+.env
+.env.*
+
+##########
+# Python
+##########
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+pip-wheel-metadata/
+.pytest_cache/
+
+##########
+# Logs
+##########
+logs/
+*.log

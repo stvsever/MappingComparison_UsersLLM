@@ -397,13 +397,13 @@ if __name__ == "__main__":
     openai.api_key = os.getenv("OPENAI_API_KEY") or ""
 
     # ----- 1. Create combinations -------------------------------------------------
-    file_path = "/Users/stijnvanseveren/Library/CloudStorage/OneDrive-UGent/Ondernemingen/PECAN2.0/Documenten/Comparison_UserRatings_LLMRatings/OSD_data/relevance/relevance_by_combination.csv"
+    file_path = "/OSF_data/relevance/relevance_by_combination.csv"
     combinations_df = create_combinations(file_path, verbose_mode=False)
 
     # ----- 2. LLM evaluation ------------------------------------------------------
     llm_scores = generate_LLM_ratings(
         combinations_df,
-        max_workers=200,
+        max_workers=100,
         LLM="gpt-4o-mini",
         verbose_mode=True,
         test_mode=False,
@@ -433,7 +433,8 @@ if __name__ == "__main__":
 #2025-04-16 22:54:07,970 [INFO] coping_group 'social support, information and awareness' accuracy = 63.64%
 #2025-04-16 22:54:08,663 [INFO] coping_group 'prepare for activity' accuracy = 71.43%
 #2025-04-16 22:54:09,357 [INFO] coping_group 'goal directed BCT' accuracy = 78.26%
-# Note: False Negative rate momenteel '12.5964%' ; MAAR kijk naar originele matrix --> scores (user_ratings) zijn vaak helemaal niet logisch?! (zie bv 43, 52, 55, 56, 57, 62, 64, etc.)
+# Note: False Negative rate momenteel '12.5964%' ; MAAR kijk naar originele matrix --> scores (user_ratings) zijn vaak helemaal niet logisch?! (zie bv 43, 50, 51, 52, 53, 55, 56, 57, 62, 64, etc.)
 
 # Correlation Results:
 # Moderate correlation between user ratings and LLM scores ; r=0.46
+e

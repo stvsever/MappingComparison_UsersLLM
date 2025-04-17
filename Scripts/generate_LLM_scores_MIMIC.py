@@ -387,7 +387,7 @@ if __name__ == "__main__":
     openai.api_key = api_key
     logger.info("OpenAI API key loaded successfully.")
 
-    file_path = "//OSD_data/relevance/relevance_by_combination.csv"
+    file_path = "//OSF_data/relevance/relevance_by_combination.csv"
 
     combinations_df = create_combinations(file_path, verbose_mode=True)
 
