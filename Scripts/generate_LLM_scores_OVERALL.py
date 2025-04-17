@@ -13,18 +13,12 @@ import numpy as np
 import concurrent.futures
 
 # ----------------------------------------------------------------------------#
-# ---- Option 1 ---- # ; without conditions
+# ---- Define Response Structure ---- #
 # ----------------------------------------------------------------------------#
-
-class Response_LLM_nuanced(BaseModel):
-    always_relevant: int
-    never_relevant: int
-
 
 class Response_LLM(BaseModel):
     overall_relevance: int
     binary_response: Literal["relevant", "irrelevant"]
-
 
 # ----------------------------------------------------------------------------#
 # ---- Helper functions for group extraction ---- #
