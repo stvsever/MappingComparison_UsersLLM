@@ -1,0 +1,6 @@
+openai~=1.59.7
+python-dotenv~=1.0.1
+pydantic~=2.6.4
+pandas~=2.2.0
+numpy~=1.26.4
+matplotlib~=3.8.2
