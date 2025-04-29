@@ -32,5 +32,5 @@ see directory 'images/separate' for (preliminary) results
   1. Participants never judged relevance directly; they always received a fixed set of 10 coping options per barrier. This design can introduce bias, whereas the language model assesses relevance directly given a B-C combination.
   2. The user‑rating dataset provides an average of 19.193 data points per relevance score (min=14, max=23), and those responses are already binary --> estimated statistical power of 15%-35% per relevance estimation
   3. Ratings were collected with Qualtrics questionnaires, a subjective method that can be less reliable.
-  4. The LLM‑based prediction pipeline is still un‑optimized (model choice, prompt engineering, currently single‑shot, no additional conditional logic, etc.).
+  4. The LLM‑based prediction pipeline is still un‑optimized (model choice, prompt engineering using prompt ablation experiment, currently single‑shot, no additional conditional logic, etc.).
   5. For the estimation of the binary confusion matrix, some misclassifications can be explained by 'suboptimal' user_data category mapping logic (see rows 43, 50, 51, 52, 53, 55, 56, 57, 62, 64, etc.) 
